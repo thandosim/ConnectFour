@@ -31,3 +31,4 @@ C:\Users\MOET-WB\Documents\byu\cse325\tutorial\ConnectFour\obj\Debug\net8.0\refi
 C:\Users\MOET-WB\Documents\byu\cse325\tutorial\ConnectFour\obj\Debug\net8.0\ConnectFour.pdb
 C:\Users\MOET-WB\Documents\byu\cse325\tutorial\ConnectFour\obj\Debug\net8.0\ConnectFour.genruntimeconfig.cache
 C:\Users\MOET-WB\Documents\byu\cse325\tutorial\ConnectFour\obj\Debug\net8.0\ref\ConnectFour.dll
+C:\Users\MOET-WB\Documents\byu\cse325\tutorial\ConnectFour\obj\Debug\net8.0\scopedcss\Components\Board.razor.rz.scp.css
