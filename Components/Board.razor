@@ -20,3 +20,10 @@
       }
    </div>
 </div>
+
+@code {
+    protected override void OnInitialized()
+    {
+        State.ResetBoard();
+    }
+}
