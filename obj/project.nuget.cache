@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hngE1ru2OMA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MOET-WB\\Documents\\byu\\cse325\\tutorial\\ConnectFour\\ConnectFour.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MOET-WB\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.21\\microsoft.netcore.app.ref.8.0.21.nupkg.sha512",
+    "C:\\Users\\MOET-WB\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.21\\microsoft.windowsdesktop.app.ref.8.0.21.nupkg.sha512",
+    "C:\\Users\\MOET-WB\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.21\\microsoft.aspnetcore.app.ref.8.0.21.nupkg.sha512",
+    "C:\\Users\\MOET-WB\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.21\\microsoft.netcore.app.host.win-x64.8.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
